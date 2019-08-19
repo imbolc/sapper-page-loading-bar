@@ -1,0 +1,24 @@
+{
+  "name": "sapper-page-loading-bar",
+  "version": "1.0.0",
+  "description": "Page preloader for Sapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imbolc/sapper-page-loading-bar.git"
+  },
+  "keywords": [
+    "sapper",
+    "svelte",
+    "preloader"
+  ],
+  "author": "Maxim Solovyov <max@imbolc.name>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imbolc/sapper-page-loading-bar/issues"
+  },
+  "homepage": "https://github.com/imbolc/sapper-page-loading-bar#readme"
+}
